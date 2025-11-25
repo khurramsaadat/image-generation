@@ -177,3 +177,8 @@ remove the camrea and AI and right arrow on the photos
 ```
 please check this project and install the necessary technologies and show me in the browser. Please keep a note to always update my inputs in input.md
 ```
+
+## 31. Push Code to GitHub
+```
+please push all code to my repo: https://github.com/khurramsaadat/image-generation.git
+```
